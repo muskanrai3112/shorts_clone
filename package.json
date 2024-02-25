@@ -16,7 +16,7 @@
     "react-hot-toast": "^2.4.1",
     "react-icons": "^4.8.0",
     "react-infinite-scroll-component": "^6.1.0",
-    "styled-components": "^6.0.0-rc.2"
+    "styled-components": "^6.1.8"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
